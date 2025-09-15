@@ -1,0 +1,13 @@
+# Ignorar arquivos sensíveis
+.env
+*.key
+*.pem
+
+# Ignorar caches e temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+temp/
